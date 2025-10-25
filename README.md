@@ -1,3 +1,5 @@
+<img src="logo.jpg">
+
 <h1 align="center"> Je programme, donc j'existe. 👨‍💻 </h1>
  <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=0000FF&size=32&center=true&vCenter=true&width=600&height=50&lines=%F0%9F%91%8B+Hi,+I'm+Bildad+Ochieng;Passionate+Problem+Solver;👩‍💻+++Front-End+Developer;Software+Engineer;Freelancer;Open-Source+Enthusiast" alt="Headline" />
