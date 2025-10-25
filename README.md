@@ -1,4 +1,4 @@
-<img src="Logo .jpg">
+<img src="logo.jpg">
 
 <h1 align="center"> Je programme, donc j'existe. 👨‍💻 </h1>
  <div align="center">
