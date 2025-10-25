@@ -22,7 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.facebook.com/profile.php?id=61573897072145" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jahsbaby" height="30" width="40" /></a>
-<a href="https://www.tiktok.com/@billyphosly800" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/Tiktok.svg" height="30" width="40" /></a>
+<a href="https://www.instagram.com/bildad962?igsh=MTh4Z3R0Z2NvNGh6Ng==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/Instagram.svg" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages:</h3>
