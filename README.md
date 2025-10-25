@@ -12,7 +12,7 @@
 - 👯 I want to collaborate on open-source projects and frontend application development.
 
 
-- 📫 My Email: **blessingjames1047@gmail.com**
+- 📫 My Email: **Billyphosly4@gmail.com**
 
 - 😂 Here is a random joke that'll make you laugh!
 
