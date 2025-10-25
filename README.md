@@ -58,7 +58,7 @@
    <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=billyphosly4-&layout=compact&langs_count=8&theme=algolia" alt="jahsbaby" />
 </p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=billyphosly4-&theme=algolia&show_icons=true&count_private=true&hide_title=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=billyphosly4&theme=algolia&show_icons=true&count_private=true&hide_title=true)
 
 ## Stargazers
 
