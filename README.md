@@ -55,14 +55,14 @@
 </p>
 
 <p align="left">
-   <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=billyphosly4j&layout=compact&langs_count=8&theme=algolia" alt="jahsbaby" />
+   <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=billyphosly4&layout=compact&langs_count=8&theme=algolia" alt="jahsbaby" />
 </p>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=blessing-akanimoh-james&theme=algolia&show_icons=true&count_private=true&hide_title=true)
 
 ## Stargazers
 
-[![Stargazers](http://bytecrank.com/nastyox/reporoster/php/stargazersSVG.php?user=blessing-akanimoh-james&repo=blessing-akanimoh-james&theme=algolia)]()
+[![Stargazers](http://bytecrank.com/nastyox/reporoster/php/stargazersSVG.ph&repo=blessing-akanimoh-james&theme=algolia)]()
 
 Leave a ⭐ from [here](https://github.com/blessing-akanimoh-james) if you like 😁
 
