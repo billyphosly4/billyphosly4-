@@ -55,7 +55,7 @@
 </p>
 
 <p align="left">
-   Img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=blessing-akanimoh-james&layout=compact&langs_count=8&theme=algolia" alt="jahsbaby" />
+   <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=blessing-akanimoh-james&layout=compact&langs_count=8&theme=algolia" alt="jahsbaby" />
 </p>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=blessing-akanimoh-james&theme=algolia&show_icons=true&count_private=true&hide_title=true)
