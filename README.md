@@ -55,15 +55,15 @@
 </p>
 
 <p align="left">
-   <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=billyphosly4&layout=compact&langs_count=8&theme=algolia" alt="jahsbaby" />
+   <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=billyphosly4-&layout=compact&langs_count=8&theme=algolia" alt="jahsbaby" />
 </p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=billyphosly4 &theme=algolia&show_icons=true&count_private=true&hide_title=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=billyphosly4-&theme=algolia&show_icons=true&count_private=true&hide_title=true)
 
 ## Stargazers
 
-[![Stargazers](http://bytecrank.com/nastyox/reporoster/php/stargazersSVG.ph&repo=blessing-akanimoh-james&theme=algolia)]()
+[![Stargazers](http://bytecrank.com/nastyox/reporoster/php/stargazersSVG.ph&repo=billyphosly4&theme=algolia)]()
 
-Leave a ⭐ from [here](https://github.com/blessing-akanimoh-james) if you like 😁
+Leave a ⭐ from [here](https://github.com/billyphosly4) if you like 😁
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=thesongmartins&theme=high-contrast&height=250&custom_title=My%20Contribution%20Graph" alt="GitHub Activity Graph"># billyphosly4-
