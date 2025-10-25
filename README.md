@@ -51,7 +51,7 @@
 
 <h3 align=left>My GitHub Stats</h3>
  <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=blessing-akanimoh-james&theme=algolia" alt="jahsbaby" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=billyphosly4&theme=algolia" alt="jahsbaby" />
 </p>
 
 <p align="left">
