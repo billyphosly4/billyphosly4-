@@ -1,3 +1,4 @@
+
 <h1 align="center"> Je programme, donc j'existe. 👨‍💻 </h1>
  <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=0000FF&size=32&center=true&vCenter=true&width=600&height=50&lines=%F0%9F%91%8B+Hi,+I'm+Bildad+Ochieng;Passionate+Problem+Solver;👩‍💻+++Front-End+Developer;Software+Engineer;Freelancer;Open-Source+Enthusiast" alt="Headline" />
@@ -20,8 +21,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://x.com/Blessin86996687" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jahsbaby" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/blessing-james-akanimoh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jahsbaby" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=61573897072145" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jahsbaby" height="30" width="40" /></a>
+
+<a href="https://www.instagram.com/bildad962?igsh=MTh4Z3R0Z2NvNGh6Ng==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jahsbaby" height="30" width="40" /></a>
+
+
 </p>
 
 <h3 align="left">Languages:</h3>
@@ -62,8 +66,8 @@
 
 ## Stargazers
 
-[![Stargazers](http://bytecrank.com/nastyox/reporoster/php/stargazersSVG.ph&repo=blessing-akanimoh-james&theme=algolia)]()
+[![Stargazers](http://bytecrank.com/nastyox/reporoster/php/stargazersSVG.ph&repo=billyphosly4&theme=Kenya)]()
 
-Leave a ⭐ from [here](https://github.com/blessing-akanimoh-james) if you like 😁
+Leave a ⭐ from [here](https://github.com/billyphosly4) if you like 😁
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=thesongmartins&theme=high-contrast&height=250&custom_title=My%20Contribution%20Graph" alt="GitHub Activity Graph"># billyphosly4-
